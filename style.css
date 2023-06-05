@@ -44,7 +44,9 @@ body {
   text-decoration: none;
   color: #FFFFFF;
 }
-
+.sec_icon {
+  text-decoration: none;
+}
 .header_main {
   margin: 0px 250px;
   display: -webkit-box;
